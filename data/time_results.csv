@@ -1,0 +1,5 @@
+Type #,Type description,Time μs
+1,using stream,484122
+2,using stod() func,191890
+3,using sscanf() func,296903
+4,using boost lib,880517
